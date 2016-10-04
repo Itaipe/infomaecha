@@ -1,0 +1,6 @@
+--> Lock probleme mutex conflits plusieurs clients
+
+--> Checksum MD5 dans Get et Lock
+
+--> Ameliorer les exceptions (ex : si le lock est deja pris, renvoyer le nom du client qui l,a)
+ + Cf Server.java procedure push
